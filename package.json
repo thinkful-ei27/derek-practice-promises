@@ -1,0 +1,22 @@
+{
+  "name": "derek-practice-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei27/derek-practice-promises.git"
+  },
+  "author": "Derek Houck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei27/derek-practice-promises/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei27/derek-practice-promises#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
